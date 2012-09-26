@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: name.tonnymadsen.tests.xcore
+Bundle-SymbolicName: name.tonnymadsen.tests.xcore; singleton:=true
+Bundle-Version: 0.1.0
+Require-Bundle: org.eclipse.emf.ecore,
+ org.eclipse.xtext.xbase.lib

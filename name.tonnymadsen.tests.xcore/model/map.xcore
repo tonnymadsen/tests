@@ -1,0 +1,16 @@
+package name.tonnymadsen.tests.xcore.mapTest
+
+class C {
+	contains StringToCMapEntry[] writerToBooksMap
+
+}
+
+class StringToCMapEntry wraps java.util.Map$Entry{
+	refers StringToCMapEntry key
+	refers C value
+}
+}
+
+class E extends EMap$xEntry {
+	
+}
