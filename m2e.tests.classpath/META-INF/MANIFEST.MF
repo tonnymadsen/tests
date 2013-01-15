@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Classpath Test Sample
+Bundle-SymbolicName: m2e.tests.classpath
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Tonny Madsen
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ClassPath: lib/commons-configuration.jar,
+ lib/commons-lang-2.2.jar,
+ .
